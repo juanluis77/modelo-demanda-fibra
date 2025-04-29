@@ -1,0 +1,7 @@
+{
+    "modelo": "Prophet",
+    "MAE": 298.74,
+    "RMSE": 336.12,
+    "MAPE": null,
+    "R2": 0.9848
+}
