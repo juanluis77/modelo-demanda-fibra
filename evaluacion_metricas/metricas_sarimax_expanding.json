@@ -1,0 +1,7 @@
+{
+    "modelo": "SARIMAX Expanding",
+    "MAE": 125.88,
+    "RMSE": 141.37,
+    "MAPE": 23.43,
+    "R2": 0.3332
+}
