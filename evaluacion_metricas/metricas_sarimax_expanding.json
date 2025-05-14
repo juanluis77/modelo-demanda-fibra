@@ -1,7 +1,7 @@
 {
     "modelo": "SARIMAX Expanding",
-    "MAE": 36.40,
-    "RMSE": 40.65,
-    "MAPE": 8.28,
-    "R2": 0.8324
+    "MAE": 40.96,
+    "RMSE": 44.87,
+    "MAPE": 7.96,
+    "R2": 0.8626
 }
